@@ -1,0 +1,6 @@
+.error-block {
+    color: red;
+    background: rgba(255, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;;
+}
